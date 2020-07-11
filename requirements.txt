@@ -1,0 +1,15 @@
+pandas
+uproot
+uproot4
+awkward1
+numpy
+matplotlib
+mplhep
+uncertainties
+boost-histogram
+hist
+numba
+histoprint
+particle
+lz4
+xxhash
