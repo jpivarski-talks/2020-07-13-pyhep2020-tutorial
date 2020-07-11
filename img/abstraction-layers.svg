@@ -415,7 +415,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="415.31834"
+     inkscape:cx="199.31834"
      inkscape:cy="242.22946"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -441,7 +441,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -681,7 +681,7 @@
            y="133.45128"
            x="216.32849"
            id="tspan815"
-           sodipodi:role="line">Uproot 4</tspan></text>
+           sodipodi:role="line">Uproot</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -693,7 +693,7 @@
          id="tspan823"
          x="216.32849"
          y="160.43887"
-         style="stroke-width:0.26458332">Awkward 1</tspan></text>
+         style="stroke-width:0.26458332">Awkward Array</tspan></text>
     <g
        id="g966">
       <path
