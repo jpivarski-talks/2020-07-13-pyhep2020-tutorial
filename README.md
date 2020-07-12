@@ -12,10 +12,12 @@ You can run it on a public cloud service called Binder:
 
 <br>
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski/2020-07-13-pyhep2020-tutorial.git/1.0?urlpath=lab/tree/tutorial.ipynb">
+  <a href="https://mybinder.org/v2/gh/jpivarski/2020-07-13-pyhep2020-tutorial.git/1.1?urlpath=lab/tree/tutorial.ipynb">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>
 <br>
 
 If you instead want to run everything on your own laptop, use pip to install the packages listed in [requirements.txt](requirements.txt) and open [tutorial.ipynb](tutorial.ipynb) in Jupyter.
+
+The [tutorial-EVALUATED.ipynb](https://nbviewer.jupyter.org/github/jpivarski/2020-07-13-pyhep2020-tutorial/blob/master/tutorial-EVALUATED.ipynb) copy has all cells evaluated, in case you want to read it offline.
