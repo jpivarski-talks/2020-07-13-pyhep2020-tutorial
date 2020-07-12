@@ -20,4 +20,4 @@ You can run it on a public cloud service called Binder:
 
 If you instead want to run everything on your own laptop, use pip to install the packages listed in [requirements.txt](requirements.txt) and open [tutorial.ipynb](tutorial.ipynb) in Jupyter.
 
-The [tutorial-EVALUATED.ipynb](https://nbviewer.jupyter.org/github/jpivarski/2020-07-13-pyhep2020-tutorial/blob/master/tutorial-EVALUATED.ipynb) copy has all cells evaluated, in case you want to read it offline.
+The [tutorial-EVALUATED.ipynb](https://nbviewer.jupyter.org/github/jpivarski/2020-07-13-pyhep2020-tutorial/blob/1.1/tutorial-EVALUATED.ipynb) copy has all cells evaluated, in case you want to read it offline.
