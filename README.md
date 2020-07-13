@@ -15,9 +15,9 @@ You can run it on a public cloud service called Binder:
   <a href="https://mybinder.org/v2/gh/jpivarski/2020-07-13-pyhep2020-tutorial.git/1.1?urlpath=lab/tree/tutorial.ipynb">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
-</p><br><p align="center">
+</p><br><p align="center" style="font-size: 2em">
   <a href="https://indico.cern.ch/event/882824/contributions/3927101/attachments/2072800/3480347/go">
-    <font size="5">If you have a CERN account, use CERN's JupyterHub.</font>
+    If you have a CERN account, use CERN's JupyterHub instead.
   </a>
 </p>
 <br>
