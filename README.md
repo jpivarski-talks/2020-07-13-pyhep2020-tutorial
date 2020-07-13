@@ -1,6 +1,6 @@
 ## Uproot and Awkward Arrays
 
-Tutorial PyHEP 2020, presented on July 13, 2020 at 15:10 CET, 06:10 PDT, 18:40 IST, 22:10 JST by [Jim Pivarski](mailto:pivarski@princeton.edu) (Princeton University).
+Tutorial PyHEP 2020, presented on July 13, 2020 at 15:10 CET, 06:10 PDT, 18:40 IST, 22:10 JST by [Jim Pivarski](mailto:pivarski@princeton.edu).
 
 See [the agenda](https://indico.cern.ch/event/882824/timetable).
 
